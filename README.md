@@ -138,7 +138,7 @@ Figure 1: Open redirection confirmed on /product/nextProduct with path= paramete
 
 
 
-![Proof of Successful SSRF Exploitation]()
+![Proof of Successful SSRF Exploitation](https://github.com/venu-maxx/PortSwigger-SSRF-Lab-3/blob/e3f7635279b2d61403215f255703833e306861fa/PortSwigger%20SSRF%20Lab%203%20Success.png)
 
 Figure 2: Successful deletion of user 'carlos' via internal endpoint.
 
